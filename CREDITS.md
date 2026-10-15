@@ -13,3 +13,5 @@ CEFR-J levels are retained for English headword/part-of-speech pairs. They are n
 Short hints and their Japanese translations were newly written with AI assistance for this trial. They are not quotations from WordNet or CEFR-J. This trial has not undergone independent educational review. Audio and pronunciation data are not included.
 
 Redistributors should retain this file and both WordNet licenses, and provide the CEFR-J attribution above. No endorsement by the source institutions is implied.
+
+Some Japanese display forms are normalized for natural usage (for example, adding する to a verbal noun or using おば without specifying relative age). Original Japanese lemmas and editorial reasons are retained in the source review records.
