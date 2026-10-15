@@ -11,4 +11,4 @@ Full data release authorized by the project owner.
 
 ## Keyword hints and explanation examples
 
-[v4 catalog](v4/catalog.json) provides keyword cues plus the previous prose hints as explanation examples for all 7,205 records. Requires a schema 4 client. Existing v3 is retained unchanged. 536 records have individually authored keyword cues; 6,669 use automatically selected drafts. See [hint audit](research/keyword-hints-audit.json). These are trial teaching aids, not fully reviewed definitions. Attribution and licenses remain in [CREDITS](CREDITS.md).
+[v4 catalog](v4/catalog.json) provides variable-length keyword cues and the unchanged previous prose as explanation examples for all 7,205 records. Unreviewed automatic cues are withheld and displayed as pending review. Only individually authored or sense-rechecked cues are enabled. See [hint audit](research/keyword-hints-audit.json) and [counts](research/keyword-release-report.json). No automatic draft is promoted solely by passing format validation. Existing v3 is retained unchanged. Attribution and licenses remain in [CREDITS](CREDITS.md).
