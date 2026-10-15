@@ -1,13 +1,10 @@
 # CanYouSpeakEnglish external data
 
-Trial data for a VRChat word explanation game. 304 individually reviewed senses across CEFR-J A1, A2, B1 and B2, including nouns, verbs, adjectives and adverbs. The full dictionary and unreviewed candidates are not hosted here.
+Full data release authorized by the project owner.
 
-- Catalog: v1/catalog.json
-- Packs: v1/{A1,A2,B1,B2}/{000..031}.json
-- Each pack contains at most 64 items; unused slots contain an empty items array.
-- Item columns: id, en, ja, level, pos, synset, hintEn, hintJa.
-- Require matching schema and revision between catalog and pack. Never treat an empty or failed download as a valid question.
-- Existing v1 paths remain fixed for VRChat baked VRCUrl arrays. Breaking changes use a new schema path.
-- Each item ID binds CEFR-J 1.6 row and WordNet synset. Review meanings before extending the trial.
-
-See [CREDITS](CREDITS.md) for sources, modifications and licenses.
+- [Six-level trial catalog](v3/catalog.json): A1–C2, 7205 playable candidate records, including automatic unreviewed selections. Requires a v3 client.
+- [Release counts](research/release-report.json) and [editorial status](research/runtime-audit.json).
+- All source-matched candidates: [A1–B2](research/candidates.json), [C1–C2](research/advanced-candidates.json).
+- All source-row dispositions: [A1–B2](research/full-audit.json), [C1–C2](research/advanced-audit.json).
+- [Existing v1 catalog](v1/catalog.json): 304 individually reviewed records; existing worlds continue using this endpoint.
+- Source data and lexical material retain the attributions and licenses in [CREDITS](CREDITS.md). C1/C2 adaptations: CC BY-SA 4.0.

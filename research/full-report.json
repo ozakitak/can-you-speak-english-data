@@ -1,0 +1,27 @@
+{
+  "sourceRows": 7801,
+  "selected": 5656,
+  "held": 2145,
+  "editorialPending": 5352,
+  "editorialApproved": 304,
+  "counts": {
+    "A1": 890,
+    "A2": 1079,
+    "B1": 1834,
+    "B2": 1853
+  },
+  "methods": {
+    "held": 2145,
+    "individually_reviewed": 304,
+    "automated_wordnet_frequency": 5352
+  },
+  "heldReasons": {
+    "no_bilingual_sense_match": 512,
+    "unsupported_dictionary_part_of_speech": 315,
+    "no_suitable_human_linked_translation": 286,
+    "translation_needs_individual_review": 846,
+    "more_frequent_sense_missing_bilingual_definition": 177,
+    "proper_name_or_register_requires_review": 9
+  },
+  "revision": "full-c748dd472533"
+}

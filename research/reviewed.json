@@ -1,0 +1,2660 @@
+[
+  {
+    "id": "cefrj16-332-07739125-n",
+    "en": "apple",
+    "ja": "りんご",
+    "hintEn": "It is a round fruit. It can be red or green.",
+    "hintJa": "丸い果物です。赤や緑のものがあります。"
+  },
+  {
+    "id": "cefrj16-530-07753592-n",
+    "en": "banana",
+    "ja": "バナナ",
+    "hintEn": "It is a long yellow fruit. You peel it before eating it.",
+    "hintJa": "細長い黄色の果物です。皮をむいて食べます。"
+  },
+  {
+    "id": "cefrj16-663-02834778-n",
+    "en": "bicycle",
+    "ja": "自転車",
+    "hintEn": "It has two wheels. You move it with your feet.",
+    "hintJa": "車輪が二つあります。足を使って動かします。"
+  },
+  {
+    "id": "cefrj16-954-02942699-n",
+    "en": "camera",
+    "ja": "カメラ",
+    "hintEn": "You use it to take photos. It has a lens.",
+    "hintJa": "写真を撮るために使います。レンズがあります。"
+  },
+  {
+    "id": "cefrj16-1025-02121620-n",
+    "en": "cat",
+    "ja": "猫",
+    "hintEn": "It is a small animal with whiskers. It says meow.",
+    "hintJa": "ひげのある小さな動物です。ニャーと鳴きます。"
+  },
+  {
+    "id": "cefrj16-1073-03001627-n",
+    "en": "chair",
+    "ja": "椅子",
+    "hintEn": "It is furniture for one person to sit on. It usually has a back.",
+    "hintJa": "一人が座るための家具です。通常は背もたれがあります。"
+  },
+  {
+    "id": "cefrj16-2004-02084071-n",
+    "en": "dog",
+    "ja": "犬",
+    "hintEn": "It is an animal that many people keep as a pet. It barks.",
+    "hintJa": "多くの人がペットとして飼う動物です。ワンワンとほえます。"
+  },
+  {
+    "id": "cefrj16-3651-09316454-n",
+    "en": "island",
+    "ja": "島",
+    "hintEn": "It is an area of land with water all around it.",
+    "hintJa": "周りを水に囲まれた陸地です。"
+  },
+  {
+    "id": "cefrj16-3900-03661043-n",
+    "en": "library",
+    "ja": "図書館",
+    "hintEn": "It is a building with many books. People go there to read.",
+    "hintJa": "本がたくさんある建物です。人々は読書をしに行きます。"
+  },
+  {
+    "id": "cefrj16-5575-04070727-n",
+    "en": "refrigerator",
+    "ja": "冷蔵庫",
+    "hintEn": "You keep food and drinks in it. It keeps them cold.",
+    "hintJa": "食べ物や飲み物を入れます。それらを冷たく保ちます。"
+  },
+  {
+    "id": "cefrj16-3195-03513137-n",
+    "en": "helmet",
+    "ja": "ヘルメット",
+    "hintEn": "You wear it on your head. It protects you when you ride or work.",
+    "hintJa": "頭にかぶります。乗り物に乗るときや作業をするときに身を守ります。"
+  },
+  {
+    "id": "cefrj16-3771-03632277-n",
+    "en": "ladder",
+    "ja": "はしご",
+    "hintEn": "You climb it to reach a high place. It has steps between two long sides.",
+    "hintJa": "高い場所に届くように登ります。二本の長い支柱の間に足をかける段があります。"
+  },
+  {
+    "id": "cefrj16-7498-09472597-n",
+    "en": "volcano",
+    "ja": "火山",
+    "hintEn": "It is a mountain that can send out hot lava and ash.",
+    "hintJa": "熱い溶岩や灰を噴き出すことがある山です。"
+  },
+  {
+    "id": "cefrj16-261-02709367-n",
+    "en": "anchor",
+    "ja": "錨",
+    "hintEn": "A boat drops this heavy object into the water to stay in one place.",
+    "hintJa": "船が同じ場所にとどまるために水中に下ろす重い道具です。"
+  },
+  {
+    "id": "cefrj16-6856-04403638-n",
+    "en": "telescope",
+    "ja": "望遠鏡",
+    "hintEn": "You look through it to see things far away. You can use it to watch stars.",
+    "hintJa": "遠くのものを見るためにのぞきます。星の観察にも使えます。"
+  },
+  {
+    "id": "cefrj16-6926-04421872-n",
+    "en": "thermometer",
+    "ja": "温度計",
+    "hintEn": "You use it to measure how hot or cold something is.",
+    "hintJa": "ものがどれくらい熱いか冷たいかを測るために使います。"
+  },
+  {
+    "id": "cefrj16-758-02870092-n",
+    "en": "book",
+    "ja": "本",
+    "hintEn": "It has many pages. You turn them to read words or look at pictures.",
+    "hintJa": "ページがたくさんあります。めくって文章を読んだり、絵を見たりします。"
+  },
+  {
+    "id": "cefrj16-909-02924116-n",
+    "en": "bus",
+    "ja": "バス",
+    "hintEn": "Many people ride in this large road vehicle. It stops to let people on and off.",
+    "hintJa": "多くの人が乗る大きな車です。人を乗せたり降ろしたりするために停まります。"
+  },
+  {
+    "id": "cefrj16-823-07679356-n",
+    "en": "bread",
+    "ja": "パン",
+    "hintEn": "You can cut this baked food into slices. People use it to make sandwiches.",
+    "hintJa": "焼いて作る食べ物で、薄く切ることができます。サンドイッチを作るときに使います。"
+  },
+  {
+    "id": "cefrj16-2167-07840804-n",
+    "en": "egg",
+    "ja": "卵",
+    "hintEn": "A hen lays it. You can boil it or cook it in a frying pan.",
+    "hintJa": "めんどりが産みます。ゆでたり、フライパンで焼いたりして食べます。"
+  },
+  {
+    "id": "cefrj16-3285-02374451-n",
+    "en": "horse",
+    "ja": "馬",
+    "hintEn": "This large animal has four legs and a mane. People can ride on its back.",
+    "hintJa": "四本の脚とたてがみがある大きな動物です。人が背中に乗ることができます。"
+  },
+  {
+    "id": "cefrj16-7224-04507155-n",
+    "en": "umbrella",
+    "ja": "傘",
+    "hintEn": "You open it above your head when it rains. It helps you stay dry.",
+    "hintJa": "雨のときに頭の上で開きます。ぬれないようにするために使います。"
+  },
+  {
+    "id": "cefrj16-7096-04468005-n",
+    "en": "train",
+    "ja": "列車",
+    "hintEn": "It carries people along railway tracks. You get on it at a station.",
+    "hintJa": "線路に沿って走り、人を運びます。駅で乗ります。"
+  },
+  {
+    "id": "cefrj16-187-02694662-n",
+    "en": "alarm clock",
+    "ja": "目覚まし時計",
+    "hintEn": "You set a time on it before going to bed. It makes a sound to wake you up.",
+    "hintJa": "寝る前に時刻を設定します。音を鳴らして起こしてくれます。"
+  },
+  {
+    "id": "cefrj16-526-02782329-n",
+    "en": "balloon",
+    "ja": "風船",
+    "hintEn": "You blow air into this thin rubber bag. People use colorful ones at parties.",
+    "hintJa": "薄いゴムの袋に息を吹き込んでふくらませます。色とりどりのものをパーティーで使います。"
+  },
+  {
+    "id": "cefrj16-701-02849154-n",
+    "en": "blanket",
+    "ja": "毛布",
+    "hintEn": "You put this soft covering over your body in bed. It helps you keep warm.",
+    "hintJa": "ベッドで体の上にかける柔らかいものです。体を暖かく保つのに役立ちます。"
+  },
+  {
+    "id": "cefrj16-1010-07730207-n",
+    "en": "carrot",
+    "ja": "ニンジン",
+    "hintEn": "It is usually a long orange vegetable. The part we eat grows under the ground.",
+    "hintJa": "普通は細長いオレンジ色の野菜です。食べる部分は土の中で育ちます。"
+  },
+  {
+    "id": "cefrj16-1022-02980441-n",
+    "en": "castle",
+    "ja": "城",
+    "hintEn": "A ruler lived in this large old building. Its strong walls helped protect the people inside.",
+    "hintJa": "昔の支配者が住んだ大きな建物です。丈夫な壁で中の人々を守りました。"
+  },
+  {
+    "id": "cefrj16-2287-03291819-n",
+    "en": "envelope",
+    "ja": "封筒",
+    "hintEn": "You put a letter inside it before sending it. You write an address on the outside.",
+    "hintJa": "手紙を送る前に中に入れます。外側に住所を書きます。"
+  },
+  {
+    "id": "cefrj16-2741-03383948-n",
+    "en": "fork",
+    "ja": "フォーク",
+    "hintEn": "You hold this eating tool in one hand. Its pointed ends can pick up pieces of food.",
+    "hintJa": "片手で持つ食事の道具です。先のとがった部分で食べ物を刺して取れます。"
+  },
+  {
+    "id": "cefrj16-4243-03773035-n",
+    "en": "mirror",
+    "ja": "鏡",
+    "hintEn": "You look into it to see your own face. You may use it when brushing your hair.",
+    "hintJa": "のぞくと自分の顔が見えます。髪をとかすときにも使います。"
+  },
+  {
+    "id": "cefrj16-4382-12997919-n",
+    "en": "mushroom",
+    "ja": "キノコ",
+    "hintEn": "It often has a stem and a cap. You may see it growing in a damp forest.",
+    "hintJa": "柄と傘のような部分があることが多いです。湿った森で育っているのを見かけます。"
+  },
+  {
+    "id": "cefrj16-5958-04148054-n",
+    "en": "scissors",
+    "ja": "はさみ",
+    "hintEn": "You open and close its two blades with your fingers. You can use it to cut paper.",
+    "hintJa": "指で二枚の刃を開いたり閉じたりします。紙を切るときに使えます。"
+  },
+  {
+    "id": "cefrj16-6453-04284002-n",
+    "en": "spoon",
+    "ja": "スプーン",
+    "hintEn": "You can eat soup with this small tool. One end is like a tiny bowl.",
+    "hintJa": "スープを飲むときに使う小さな道具です。先が小さな器のようになっています。"
+  },
+  {
+    "id": "cefrj16-6676-02773838-n",
+    "en": "suitcase",
+    "ja": "スーツケース",
+    "hintEn": "You pack clothes in it before a trip. Many modern ones have wheels and a handle.",
+    "hintJa": "旅行の前に服を詰めます。最近のものには車輪と持ち手が付いていることが多いです。"
+  },
+  {
+    "id": "cefrj16-7049-04453156-n",
+    "en": "toothbrush",
+    "ja": "歯ブラシ",
+    "hintEn": "You put toothpaste on it. You move it around your mouth to clean your teeth.",
+    "hintJa": "歯みがき粉を付けます。口の中で動かして歯をきれいにします。"
+  },
+  {
+    "id": "cefrj16-7476-04536866-n",
+    "en": "violin",
+    "ja": "バイオリン",
+    "hintEn": "You hold this small string instrument near your chin. You move a bow across its four strings.",
+    "hintJa": "あごの近くに構える小さな弦楽器です。四本の弦の上で弓を動かして演奏します。"
+  },
+  {
+    "id": "cefrj16-7626-04576002-n",
+    "en": "wheelchair",
+    "ja": "車椅子",
+    "hintEn": "A person sits in this chair and moves on wheels. It helps people travel without walking.",
+    "hintJa": "座ったまま車輪で移動できます。歩かずに移動するために使います。"
+  },
+  {
+    "id": "cefrj16-243-02701002-n",
+    "en": "ambulance",
+    "ja": "救急車",
+    "hintEn": "This vehicle takes sick or injured people to hospital. It often has flashing lights and a siren.",
+    "hintJa": "病気の人やけがをした人を病院に運ぶ車です。点滅するライトやサイレンが付いています。"
+  },
+  {
+    "id": "cefrj16-500-02769748-n",
+    "en": "backpack",
+    "ja": "リュックサック",
+    "hintEn": "You carry this bag on your back. Two straps go over your shoulders.",
+    "hintJa": "背中に背負うかばんです。二本のひもを肩にかけて使います。"
+  },
+  {
+    "id": "cefrj16-532-02785648-n",
+    "en": "bandage",
+    "ja": "包帯",
+    "hintEn": "You wrap this soft strip around an injured part of the body to cover and protect it.",
+    "hintJa": "体のけがをした部分に巻き、覆って守るための柔らかい帯です。"
+  },
+  {
+    "id": "cefrj16-944-02938886-n",
+    "en": "calculator",
+    "ja": "電卓",
+    "hintEn": "You press number buttons on this small machine. It helps you add, subtract, and do other sums.",
+    "hintJa": "数字のボタンを押して使う小さな機械です。足し算や引き算などに使います。"
+  },
+  {
+    "id": "cefrj16-967-02948072-n",
+    "en": "candle",
+    "ja": "キャンドル",
+    "hintEn": "It gives light when you burn the small string at its center. The wax slowly melts.",
+    "hintJa": "中心の細いひもに火を付けると明かりになります。ろうが少しずつ溶けます。"
+  },
+  {
+    "id": "cefrj16-1606-07718472-n",
+    "en": "cucumber",
+    "ja": "キュウリ",
+    "hintEn": "It is a long green food with a crisp, pale inside. People often slice it for salads.",
+    "hintJa": "細長くて緑色の食べ物です。中は淡い色で歯ごたえがあり、よく切ってサラダに入れます。"
+  },
+  {
+    "id": "cefrj16-1631-03151500-n",
+    "en": "cushion",
+    "ja": "クッション",
+    "hintEn": "You put this soft object on a chair or sofa. You can sit on it or lean against it.",
+    "hintJa": "椅子やソファに置く柔らかいものです。上に座ったり、もたれたりできます。"
+  },
+  {
+    "id": "cefrj16-3096-03481172-n",
+    "en": "hammer",
+    "ja": "金槌",
+    "hintEn": "This tool has a heavy head and a handle. You use it to hit nails into wood.",
+    "hintJa": "重い頭と持ち手がある道具です。木にくぎを打ち込むときに使います。"
+  },
+  {
+    "id": "cefrj16-3725-03612814-n",
+    "en": "kettle",
+    "ja": "やかん",
+    "hintEn": "You fill this metal container with water and heat it. You can use the hot water to make tea.",
+    "hintJa": "金属の容器に水を入れて温めます。沸かしたお湯でお茶を入れられます。"
+  },
+  {
+    "id": "cefrj16-4838-03888257-n",
+    "en": "parachute",
+    "ja": "パラシュート",
+    "hintEn": "It opens above you when you jump from an aircraft. The large sheet helps you fall slowly.",
+    "hintJa": "飛行機から飛び降りると頭の上に開きます。大きな布で落ちる速さをゆっくりにします。"
+  },
+  {
+    "id": "cefrj16-5037-07753275-n",
+    "en": "pineapple",
+    "ja": "パイナップル",
+    "hintEn": "This sweet tropical fruit has rough skin and stiff leaves on top. Its inside is yellow.",
+    "hintJa": "甘い熱帯の果物です。表面がごつごつして上に硬い葉があり、中は黄色です。"
+  },
+  {
+    "id": "cefrj16-292-02219486-n",
+    "en": "ant",
+    "ja": "アリ",
+    "hintEn": "This small insect has six legs. Many of them live and work together in one colony.",
+    "hintJa": "六本の脚がある小さな昆虫です。たくさんの仲間で集団を作って暮らします。"
+  },
+  {
+    "id": "cefrj16-516-02776631-n",
+    "en": "bakery",
+    "ja": "パン屋",
+    "hintEn": "This shop makes or sells things such as loaves, rolls, and cakes. It often smells delicious.",
+    "hintJa": "食パンやロールパン、ケーキなどを作ったり売ったりする店です。おいしそうな香りがします。"
+  },
+  {
+    "id": "cefrj16-4204-03760671-n",
+    "en": "microscope",
+    "ja": "顕微鏡",
+    "hintEn": "You look through this instrument to see very small things, such as cells, in much greater detail.",
+    "hintJa": "細胞など、とても小さなものを詳しく見るためにのぞく道具です。"
+  },
+  {
+    "id": "cefrj16-3192-03512147-n",
+    "en": "helicopter",
+    "ja": "ヘリコプター",
+    "hintEn": "This aircraft has large spinning blades above it. It can stay in one place in the air.",
+    "hintJa": "上に大きな回転する羽根がある飛行する乗り物です。空中の同じ場所にとどまれます。"
+  },
+  {
+    "id": "cefrj16-5461-09403427-n",
+    "en": "rainbow",
+    "ja": "虹",
+    "hintEn": "You may see this colorful curved shape in the sky when sunlight shines through rain.",
+    "hintJa": "雨粒に太陽の光が当たると、空に見えることがある色とりどりの曲線です。"
+  },
+  {
+    "id": "cefrj16-4940-02055803-n",
+    "en": "penguin",
+    "ja": "ペンギン",
+    "hintEn": "This bird cannot fly, but it swims well. It has flippers and often has black and white feathers.",
+    "hintJa": "飛べませんが泳ぎが得意な鳥です。ひれのような翼があり、白と黒の羽を持つものが多いです。"
+  },
+  {
+    "id": "cefrj16-4791-01621127-n",
+    "en": "owl",
+    "ja": "フクロウ",
+    "hintEn": "This bird has large eyes that face forward. Many kinds hunt at night.",
+    "hintJa": "正面を向いた大きな目がある鳥です。夜に狩りをする種類が多いです。"
+  },
+  {
+    "id": "cefrj16-3719-01877134-n",
+    "en": "kangaroo",
+    "ja": "カンガルー",
+    "hintEn": "This animal moves by jumping on strong back legs. The mother carries her baby in a pouch.",
+    "hintJa": "強い後ろ脚で跳んで移動する動物です。母親はおなかの袋で赤ちゃんを育てます。"
+  },
+  {
+    "id": "cefrj16-7798-02391049-n",
+    "en": "zebra",
+    "ja": "シマウマ",
+    "hintEn": "This African animal looks like a horse. It has black and white stripes all over its body.",
+    "hintJa": "馬に似たアフリカの動物です。全身に白と黒のしま模様があります。"
+  },
+  {
+    "id": "cefrj16-6792-04380143-n",
+    "en": "tablecloth",
+    "ja": "テーブルクロス",
+    "hintEn": "You spread this piece of fabric over the surface where you eat. It can protect or decorate the furniture.",
+    "hintJa": "食事をする台の表面に広げる布です。家具を保護したり飾ったりします。"
+  },
+  {
+    "id": "cefrj16-6562-04328186-n",
+    "en": "stopwatch",
+    "ja": "ストップウォッチ",
+    "hintEn": "You press a button to start and stop this timer. It tells you how long a race or another activity takes.",
+    "hintJa": "ボタンを押して時間を計り始めたり止めたりします。レースなどにかかった時間がわかります。"
+  },
+  {
+    "id": "cefrj16-7054-03359137-n",
+    "en": "torch",
+    "ja": "懐中電灯",
+    "hintEn": "You hold this small electric light in your hand. It uses batteries and helps you see in the dark.",
+    "hintJa": "手で持つ小さな電気の明かりです。電池で動き、暗い場所を見るときに使います。"
+  },
+  {
+    "id": "cefrj16-5377-07735510-n",
+    "en": "pumpkin",
+    "ja": "カボチャ",
+    "hintEn": "This large round food has many seeds inside. People often carve an orange one at Halloween.",
+    "hintJa": "大きくて丸く、中に種がたくさんあります。ハロウィーンではオレンジ色のものをくり抜いて飾ることがあります。"
+  },
+  {
+    "id": "cefrj16-4817-03876231-n",
+    "en": "paintbrush",
+    "ja": "絵筆",
+    "hintEn": "You dip the soft end of this tool into paint. Then you move it across paper or another surface.",
+    "hintJa": "先の柔らかい部分に絵の具を付け、紙などの表面をなぞって使う道具です。"
+  },
+  {
+    "id": "cefrj16-4203-03759954-n",
+    "en": "microphone",
+    "ja": "マイク",
+    "hintEn": "You speak or sing into this device. It sends your voice to recording equipment or speakers.",
+    "hintJa": "話したり歌ったりするときに声を入れる道具です。声を録音する機器やスピーカーへ送ります。"
+  },
+  {
+    "id": "cefrj16-350-02730930-n",
+    "en": "apron",
+    "ja": "エプロン",
+    "hintEn": "You wear this over your clothes when cooking.",
+    "hintJa": "料理をするときに服の上から着けます。"
+  },
+  {
+    "id": "cefrj16-608-02206856-n",
+    "en": "bee",
+    "ja": "ハナバチ",
+    "hintEn": "This insect visits flowers and carries pollen.",
+    "hintJa": "花を訪れて花粉を運ぶ昆虫です。"
+  },
+  {
+    "id": "cefrj16-790-02876657-n",
+    "en": "bottle",
+    "ja": "ボトル",
+    "hintEn": "You keep drinks in this container with a narrow neck.",
+    "hintJa": "口が細くなった容器で、飲み物を入れます。"
+  },
+  {
+    "id": "cefrj16-844-02898711-n",
+    "en": "bridge",
+    "ja": "橋",
+    "hintEn": "People use this to cross a river without getting wet.",
+    "hintJa": "川でぬれずに向こう岸へ渡るために使います。"
+  },
+  {
+    "id": "cefrj16-925-02274259-n",
+    "en": "butterfly",
+    "ja": "チョウ",
+    "hintEn": "This insect has wide wings and was once a caterpillar.",
+    "hintJa": "広い羽を持ち、幼虫のころはイモムシだった昆虫です。"
+  },
+  {
+    "id": "cefrj16-1210-03046257-n",
+    "en": "clock",
+    "ja": "時計",
+    "hintEn": "You look at this to find out the time.",
+    "hintJa": "今の時刻を知るために見ます。"
+  },
+  {
+    "id": "cefrj16-1541-02403454-n",
+    "en": "cow",
+    "ja": "雌牛",
+    "hintEn": "This farm animal says moo and can give us milk.",
+    "hintJa": "モーと鳴き、乳を出す家畜です。"
+  },
+  {
+    "id": "cefrj16-2006-03219135-n",
+    "en": "doll",
+    "ja": "人形",
+    "hintEn": "This toy looks like a small person.",
+    "hintJa": "小さな人の形をしたおもちゃです。"
+  },
+  {
+    "id": "cefrj16-2802-01639765-n",
+    "en": "frog",
+    "ja": "カエル",
+    "hintEn": "This animal jumps with long back legs and starts life as a tadpole.",
+    "hintJa": "長い後ろ脚で跳び、子どものころはオタマジャクシです。"
+  },
+  {
+    "id": "cefrj16-3066-03467517-n",
+    "en": "guitar",
+    "ja": "ギター",
+    "hintEn": "You play this instrument by plucking its strings.",
+    "hintJa": "弦をはじいて演奏する楽器です。"
+  },
+  {
+    "id": "cefrj16-3751-03621473-n",
+    "en": "kite",
+    "ja": "凧",
+    "hintEn": "You hold a string while this toy flies in the wind.",
+    "hintJa": "糸を持ち、風で空に飛ばすおもちゃです。"
+  },
+  {
+    "id": "cefrj16-3943-02129165-n",
+    "en": "lion",
+    "ja": "ライオン",
+    "hintEn": "The adult male of this big cat usually has a mane.",
+    "hintJa": "大きなネコの仲間で、大人の雄には普通たてがみがあります。"
+  },
+  {
+    "id": "cefrj16-4937-03908204-n",
+    "en": "pencil",
+    "ja": "鉛筆",
+    "hintEn": "You sharpen this writing tool, and you can erase its marks.",
+    "hintJa": "先を削って使い、書いた線を消せる筆記用具です。"
+  },
+  {
+    "id": "cefrj16-5438-02324045-n",
+    "en": "rabbit",
+    "ja": "ウサギ",
+    "hintEn": "This animal has long ears and a short tail.",
+    "hintJa": "長い耳と短いしっぽを持つ動物です。"
+  },
+  {
+    "id": "cefrj16-6991-02129604-n",
+    "en": "tiger",
+    "ja": "トラ",
+    "hintEn": "This large wild cat has dark stripes.",
+    "hintJa": "黒っぽいしま模様がある大きなネコの仲間です。"
+  },
+  {
+    "id": "cefrj16-7801-03745146-n",
+    "en": "zoo",
+    "ja": "動物園",
+    "hintEn": "People visit this place to see many kinds of wild animals.",
+    "hintJa": "いろいろな野生動物を見に行く施設です。"
+  },
+  {
+    "id": "cefrj16-423-09818022-n",
+    "en": "astronaut",
+    "ja": "宇宙飛行士",
+    "hintEn": "This person is trained to travel into space.",
+    "hintJa": "宇宙へ行くための訓練を受けた人です。"
+  },
+  {
+    "id": "cefrj16-520-02777734-n",
+    "en": "balcony",
+    "ja": "バルコニー",
+    "hintEn": "This outdoor platform sticks out from an upper floor and has a railing.",
+    "hintJa": "建物の上の階から外に出た、手すりのある場所です。"
+  },
+  {
+    "id": "cefrj16-571-02801938-n",
+    "en": "basket",
+    "ja": "バスケット",
+    "hintEn": "This woven container often has a handle for carrying things.",
+    "hintJa": "物を運ぶ取っ手が付いていることが多い、編んだ容器です。"
+  },
+  {
+    "id": "cefrj16-637-02828884-n",
+    "en": "bench",
+    "ja": "ベンチ",
+    "hintEn": "Several people can sit together on this long seat.",
+    "hintJa": "何人かが並んで座れる長い椅子です。"
+  },
+  {
+    "id": "cefrj16-1271-03074855-n",
+    "en": "comb",
+    "ja": "櫛",
+    "hintEn": "You pull this small tool with many teeth through your hair.",
+    "hintJa": "細い歯が並んだ道具で、髪をとかします。"
+  },
+  {
+    "id": "cefrj16-1593-03138669-n",
+    "en": "crown",
+    "ja": "王冠",
+    "hintEn": "A king or queen may wear this decorated object on their head.",
+    "hintJa": "王や女王が頭に着ける、飾りの付いたものです。"
+  },
+  {
+    "id": "cefrj16-1784-10004282-n",
+    "en": "dentist",
+    "ja": "歯科医",
+    "hintEn": "You visit this person when you need your teeth checked.",
+    "hintJa": "歯を診てもらうときに訪ねる人です。"
+  },
+  {
+    "id": "cefrj16-2194-02503517-n",
+    "en": "elephant",
+    "ja": "ゾウ",
+    "hintEn": "This huge animal uses its long trunk to pick things up.",
+    "hintJa": "長い鼻で物を持ち上げる大きな動物です。"
+  },
+  {
+    "id": "cefrj16-2310-03295773-n",
+    "en": "escalator",
+    "ja": "エスカレーター",
+    "hintEn": "You stand on moving steps to reach another floor.",
+    "hintJa": "動く段に乗って別の階へ移動します。"
+  },
+  {
+    "id": "cefrj16-2553-01896031-n",
+    "en": "feather",
+    "ja": "羽根",
+    "hintEn": "Birds have these light structures covering their bodies.",
+    "hintJa": "鳥の体を覆っている軽いものです。"
+  },
+  {
+    "id": "cefrj16-2943-03441112-n",
+    "en": "glove",
+    "ja": "手袋",
+    "hintEn": "You wear this on your hand to keep it warm or protected.",
+    "hintJa": "手を温めたり守ったりするために着けます。"
+  },
+  {
+    "id": "cefrj16-3875-07749582-n",
+    "en": "lemon",
+    "ja": "レモン",
+    "hintEn": "This sour yellow fruit can add flavor to tea.",
+    "hintJa": "紅茶の風味付けにも使う、酸っぱい黄色い果物です。"
+  },
+  {
+    "id": "cefrj16-4408-03807537-n",
+    "en": "napkin",
+    "ja": "ナプキン",
+    "hintEn": "At a meal, you use this cloth to wipe your mouth or cover your lap.",
+    "hintJa": "食事のときに口を拭いたり、ひざに広げたりする布です。"
+  },
+  {
+    "id": "cefrj16-4651-07722217-n",
+    "en": "onion",
+    "ja": "玉ねぎ",
+    "hintEn": "Cutting this layered vegetable can make your eyes water.",
+    "hintJa": "層になった野菜で、切ると涙が出ることがあります。"
+  },
+  {
+    "id": "cefrj16-6317-04253437-n",
+    "en": "soap",
+    "ja": "石けん",
+    "hintEn": "You use this with water to wash your hands.",
+    "hintJa": "水と一緒に使って手を洗います。"
+  },
+  {
+    "id": "cefrj16-7527-04548362-n",
+    "en": "wallet",
+    "ja": "財布",
+    "hintEn": "You carry money and cards in this small folding case.",
+    "hintJa": "お金やカードを入れて持ち歩く小さなケースです。"
+  },
+  {
+    "id": "cefrj16-1007-04118021-n",
+    "en": "carpet",
+    "ja": "カーペット",
+    "hintEn": "This thick fabric covers a floor and feels soft under your feet.",
+    "hintJa": "床に敷く厚い布で、足元が柔らかくなります。"
+  },
+  {
+    "id": "cefrj16-1009-02968473-n",
+    "en": "carriage",
+    "ja": "馬車",
+    "hintEn": "Horses pull this vehicle along a road.",
+    "hintJa": "馬が引いて道を進む乗り物です。"
+  },
+  {
+    "id": "cefrj16-2008-02068974-n",
+    "en": "dolphin",
+    "ja": "イルカ",
+    "hintEn": "This sea mammal has a long snout and may leap beside boats.",
+    "hintJa": "長い口先を持つ海の哺乳類で、船のそばで跳ぶことがあります。"
+  },
+  {
+    "id": "cefrj16-2627-10091651-n",
+    "en": "firefighter",
+    "ja": "消防士",
+    "hintEn": "This person puts out fires and helps rescue people.",
+    "hintJa": "火を消し、人を助け出す仕事をする人です。"
+  },
+  {
+    "id": "cefrj16-2915-02439033-n",
+    "en": "giraffe",
+    "ja": "キリン",
+    "hintEn": "This spotted animal reaches high leaves with its very long neck.",
+    "hintJa": "長い首で高い所の葉に届く、まだら模様の動物です。"
+  },
+  {
+    "id": "cefrj16-4324-02200198-n",
+    "en": "mosquito",
+    "ja": "蚊",
+    "hintEn": "The female of this small flying insect may bite you and drink blood.",
+    "hintJa": "小さな飛ぶ虫で、雌は人を刺して血を吸うことがあります。"
+  },
+  {
+    "id": "cefrj16-5031-03938244-n",
+    "en": "pillow",
+    "ja": "枕",
+    "hintEn": "You rest your head on this soft object in bed.",
+    "hintJa": "寝るときに頭を乗せる柔らかいものです。"
+  },
+  {
+    "id": "cefrj16-6878-04411264-n",
+    "en": "tent",
+    "ja": "テント",
+    "hintEn": "Campers sleep inside this portable shelter.",
+    "hintJa": "キャンプで中に入って眠れる、持ち運べる住まいです。"
+  },
+  {
+    "id": "cefrj16-7202-01662784-n",
+    "en": "turtle",
+    "ja": "カメ",
+    "hintEn": "This reptile carries a hard shell on its body.",
+    "hintJa": "体に硬い甲羅を持つ爬虫類です。"
+  },
+  {
+    "id": "cefrj16-7619-02062744-n",
+    "en": "whale",
+    "ja": "クジラ",
+    "hintEn": "This large sea mammal breathes air through an opening on its head.",
+    "hintJa": "頭の穴で空気を吸う、大きな海の哺乳類です。"
+  },
+  {
+    "id": "cefrj16-53-09761403-n",
+    "en": "accountant",
+    "ja": "会計士",
+    "hintEn": "This person checks financial records for people or businesses.",
+    "hintJa": "個人や会社のお金の記録を確認する仕事の人です。"
+  },
+  {
+    "id": "cefrj16-81-09767700-n",
+    "en": "actress",
+    "ja": "女優",
+    "hintEn": "This woman performs characters in plays or films.",
+    "hintJa": "劇や映画で登場人物を演じる女性です。"
+  },
+  {
+    "id": "cefrj16-493-09829305-n",
+    "en": "babysitter",
+    "ja": "ベビーシッター",
+    "hintEn": "This person looks after children while their parents are away.",
+    "hintJa": "親が外出している間、子どもの世話をする人です。"
+  },
+  {
+    "id": "cefrj16-506-07670433-n",
+    "en": "bacon",
+    "ja": "ベーコン",
+    "hintEn": "These thin slices of salted or smoked pork are often fried.",
+    "hintJa": "塩漬けや燻製にした豚肉で、薄切りにして焼くことが多いです。"
+  },
+  {
+    "id": "cefrj16-1939-03207941-n",
+    "en": "dishwasher",
+    "ja": "食器洗い機",
+    "hintEn": "You put dirty plates in this machine to clean them.",
+    "hintJa": "汚れた皿を入れると洗ってくれる機械です。"
+  },
+  {
+    "id": "cefrj16-69-09763784-n",
+    "en": "acquaintance",
+    "ja": "知り合い",
+    "hintEn": "You know this person, but they may not be a close friend.",
+    "hintJa": "知っている人ですが、親しい友人とは限りません。"
+  },
+  {
+    "id": "cefrj16-1546-01976957-n",
+    "en": "crab",
+    "ja": "カニ",
+    "hintEn": "This animal has a wide shell and two claws and often walks sideways.",
+    "hintJa": "広い甲羅と二つのはさみを持ち、よく横に歩く動物です。"
+  },
+  {
+    "id": "cefrj16-1583-01697178-n",
+    "en": "crocodile",
+    "ja": "クロコダイル",
+    "hintEn": "This large reptile waits in water and has powerful jaws and a long snout.",
+    "hintJa": "水中で待ち伏せする、強いあごと長い口先を持つ大型の爬虫類です。"
+  },
+  {
+    "id": "cefrj16-2014-02389559-n",
+    "en": "donkey",
+    "ja": "ロバ",
+    "hintEn": "This long-eared relative of the horse can carry heavy loads.",
+    "hintJa": "馬の仲間で、耳が長く、重い荷物を運びます。"
+  },
+  {
+    "id": "cefrj16-2467-05313535-n",
+    "en": "eyebrow",
+    "ja": "眉毛",
+    "hintEn": "This strip of hair grows above your eye.",
+    "hintJa": "目の上に生えている、帯のような毛です。"
+  },
+  {
+    "id": "cefrj16-2628-03346455-n",
+    "en": "fireplace",
+    "ja": "暖炉",
+    "hintEn": "You burn wood in this space in a wall to warm a room.",
+    "hintJa": "部屋を暖めるために、壁のこの場所で木を燃やします。"
+  },
+  {
+    "id": "cefrj16-2767-02118333-n",
+    "en": "fox",
+    "ja": "キツネ",
+    "hintEn": "This wild animal has pointed ears and a bushy tail.",
+    "hintJa": "とがった耳とふさふさのしっぽを持つ野生動物です。"
+  },
+  {
+    "id": "cefrj16-2949-02416519-n",
+    "en": "goat",
+    "ja": "ヤギ",
+    "hintEn": "This relative of sheep often has a beard and can climb steep rocks.",
+    "hintJa": "羊の仲間で、あごひげがあることが多く、急な岩場を登れます。"
+  },
+  {
+    "id": "cefrj16-3881-02128385-n",
+    "en": "leopard",
+    "ja": "ヒョウ",
+    "hintEn": "This large spotted cat lives in Africa and Asia and climbs trees well.",
+    "hintJa": "アフリカやアジアにすむ、木登りが得意なまだら模様の大型ネコです。"
+  },
+  {
+    "id": "cefrj16-4070-07764155-n",
+    "en": "mango",
+    "ja": "マンゴー",
+    "hintEn": "This tropical fruit has sweet juicy flesh and one large flat seed.",
+    "hintJa": "甘くて水分の多い果肉と、大きく平たい種が一つある熱帯の果物です。"
+  },
+  {
+    "id": "cefrj16-4828-07640203-n",
+    "en": "pancake",
+    "ja": "パンケーキ",
+    "hintEn": "You cook this flat breakfast food from batter in a pan.",
+    "hintJa": "生地をフライパンで焼いて作る、平たい朝食の食べ物です。"
+  },
+  {
+    "id": "cefrj16-4917-07751004-n",
+    "en": "peach",
+    "ja": "桃",
+    "hintEn": "This sweet juicy fruit has fuzzy skin and a hard stone inside.",
+    "hintJa": "産毛のある皮と硬い種を持つ、甘くて水分の多い果物です。"
+  },
+  {
+    "id": "cefrj16-5086-10443032-n",
+    "en": "plumber",
+    "ja": "配管工",
+    "hintEn": "You call this worker when water pipes need repairs.",
+    "hintJa": "水道管の修理が必要なときに頼む職人です。"
+  },
+  {
+    "id": "cefrj16-5762-02391994-n",
+    "en": "rhinoceros",
+    "ja": "サイ",
+    "hintEn": "This large plant-eating animal has thick skin and horns on its nose.",
+    "hintJa": "厚い皮膚と鼻の上の角を持つ、大きな草食動物です。"
+  },
+  {
+    "id": "cefrj16-6752-01858441-n",
+    "en": "swan",
+    "ja": "白鳥",
+    "hintEn": "This large water bird has a very long neck and is often white.",
+    "hintJa": "首がとても長く、白い種類が多い大きな水鳥です。"
+  },
+  {
+    "id": "cefrj16-7190-12454159-n",
+    "en": "tulip",
+    "ja": "チューリップ",
+    "hintEn": "This spring flower grows from a bulb and often has a cup-shaped bloom.",
+    "hintJa": "球根から育ち、杯のような形の花を咲かせる春の植物です。"
+  },
+  {
+    "id": "cefrj16-7708-02114100-n",
+    "en": "wolf",
+    "ja": "オオカミ",
+    "hintEn": "This wild relative of the dog often hunts in a pack.",
+    "hintJa": "犬に近い野生動物で、群れで狩りをすることが多いです。"
+  },
+  {
+    "id": "cefrj16-4-02228031-v",
+    "en": "abandon",
+    "ja": "捨てる",
+    "hintEn": "You leave something behind and stop looking after it.",
+    "hintJa": "何かを置き去りにして、もう世話や管理をしなくなります。",
+    "reason": "動詞として読める自然な訳を選び、古い表記の抛棄を避ける。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-6-05200169-n",
+    "en": "ability",
+    "ja": "能力",
+    "hintEn": "This is what lets someone perform a task successfully.",
+    "hintJa": "ある仕事や行動をうまく行うために必要な力です。",
+    "reason": "一般的な能力の語義。曖昧な力や古い表記の力倆を避ける。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-8-01595596-a",
+    "en": "abnormal",
+    "ja": "普通でない",
+    "hintEn": "Something described this way differs from what is usual.",
+    "hintJa": "いつもの状態や一般的な状態とは違うことです。",
+    "reason": "程度が大きいという別語義ではなく、通常とは異なる意味を選ぶ。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-10-00249878-r",
+    "en": "aboard",
+    "ja": "搭乗して",
+    "hintEn": "You are on a ship, train, or aircraft.",
+    "hintJa": "船や列車、飛行機に乗っている状態です。",
+    "reason": "乗り物に乗っている意味。野球や横に並ぶ語義を除く。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-11-02427334-v",
+    "en": "abolish",
+    "ja": "廃止する",
+    "hintEn": "A government may officially end a law or a system this way.",
+    "hintJa": "政府などが法律や制度を正式になくすことです。",
+    "reason": "法律や制度をなくす動詞。日本語も動詞として読める形に整え、WordNetの原表記「廃止」をjaSourceに保持。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15",
+    "jaSource": "廃止"
+  },
+  {
+    "id": "cefrj16-27-00011757-a",
+    "en": "abstract",
+    "ja": "抽象的",
+    "hintEn": "Ideas such as freedom cannot be touched like physical objects.",
+    "hintJa": "自由など、物のように触れない考えを表す言葉です。",
+    "reason": "概念を表す形容詞。カタカナの音写や抽象美術だけの語義を避ける。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-29-05115040-n",
+    "en": "abundance",
+    "ja": "豊富",
+    "hintEn": "There is more than enough of something.",
+    "hintJa": "必要な量を超えるほど、たくさんあることです。",
+    "reason": "量が十分以上にある意味を確認。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-31-00419908-n",
+    "en": "abuse",
+    "ja": "虐待",
+    "hintEn": "This means treating a person or animal cruelly.",
+    "hintJa": "人や動物をひどく傷つけるような扱いをすることです。",
+    "reason": "人や動物への残酷な扱い。乱用や悪口とは区別する。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-43-07301336-n",
+    "en": "accident",
+    "ja": "事故",
+    "hintEn": "An unexpected event causes harm or damage.",
+    "hintJa": "予期しない出来事で、人がけがをしたり物が壊れたりします。",
+    "reason": "単なる偶然ではなく損害を伴う出来事の意味。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-50-00062857-r",
+    "en": "accordingly",
+    "ja": "従って",
+    "hintEn": "This word introduces a result of what was just explained.",
+    "hintJa": "直前に述べた理由から生じる結果を示す言葉です。",
+    "reason": "結果を導く副詞の語義。日本語訳の勢は採用しない。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-80-09765278-n",
+    "en": "actor",
+    "ja": "俳優",
+    "hintEn": "This person performs a character on stage or in a film.",
+    "hintJa": "舞台や映画で登場人物を演じる人です。",
+    "reason": "行為者一般ではなく演技する職業を選ぶ。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-95-08491027-n",
+    "en": "address",
+    "ja": "住所",
+    "hintEn": "This tells people where someone lives or where an organization is located.",
+    "hintJa": "人が住んでいる場所や組織の所在地を示すものです。",
+    "reason": "日常的な所在地の意味。コンピューターの参照や演説を選ばない。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-96-00897564-v",
+    "en": "address",
+    "ja": "呼びかける",
+    "hintEn": "You speak directly to a person or a group.",
+    "hintJa": "ある人や集団に向けて直接話すことです。",
+    "reason": "同じ綴りの名詞と区別し、動詞の語義を指定。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-100-06321702-n",
+    "en": "adjective",
+    "ja": "形容詞",
+    "hintEn": "Words such as tall and beautiful belong to this word class.",
+    "hintJa": "高い、美しいなどの性質を表す語が属する品詞です。",
+    "reason": "文法用語としての意味を確認。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-128-06323612-n",
+    "en": "adverb",
+    "ja": "副詞",
+    "hintEn": "Words such as quickly can describe how an action happens.",
+    "hintJa": "素早く、などのように動作の様子を説明する品詞です。",
+    "reason": "名詞ではなく動詞などを修飾する語の意味。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-152-15166191-n",
+    "en": "afternoon",
+    "ja": "午後",
+    "hintEn": "This part of the day comes after noon and before evening.",
+    "hintJa": "正午のあとから夕方までの時間帯です。",
+    "reason": "昼全般ではなく正午から夕方までを選ぶ。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-176-14841267-n",
+    "en": "air",
+    "ja": "空気",
+    "hintEn": "We breathe this mixture of gases around us.",
+    "hintJa": "私たちの周りにあり、呼吸で吸い込む気体の混合物です。",
+    "reason": "雰囲気や旋律ではなく呼吸する気体の意味。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-177-02686379-n",
+    "en": "air conditioning",
+    "ja": "エアコン",
+    "hintEn": "This system cools indoor spaces and removes moisture.",
+    "hintJa": "室内を涼しくし、湿気を取り除く設備です。",
+    "reason": "冷房設備の語義。カタカナの長い音写より一般的な訳。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-178-08196024-n",
+    "en": "air force",
+    "ja": "空軍",
+    "hintEn": "This branch of the military mainly operates aircraft.",
+    "hintJa": "主に航空機を使って活動する軍の部門です。",
+    "reason": "特定の国ではなく一般的な軍の部門。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-182-02691156-n",
+    "en": "airplane",
+    "ja": "飛行機",
+    "hintEn": "This powered vehicle flies with fixed wings.",
+    "hintJa": "動力と固定された翼を使って空を飛ぶ乗り物です。",
+    "reason": "機という省略や銀翼という比喩を避ける。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-183-02692232-n",
+    "en": "airport",
+    "ja": "空港",
+    "hintEn": "Passengers come here to board aircraft.",
+    "hintJa": "飛行機に乗るために乗客が集まる施設です。",
+    "reason": "旅客設備を備えた飛行場の意味を確認。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-188-02695079-n",
+    "en": "album",
+    "ja": "アルバム",
+    "hintEn": "You keep photos together in the pages of this book.",
+    "hintJa": "写真をまとめてページに収めておく本です。",
+    "reason": "音楽の作品集とは区別し、写真を収める本を選ぶ。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-189-07884567-n",
+    "en": "alcohol",
+    "ja": "酒",
+    "hintEn": "Beer and wine are examples of this kind of drink.",
+    "hintJa": "ビールやワインなどの飲み物です。",
+    "reason": "化学物質全般ではなく飲料の語義を選ぶ。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-244-14743582-n",
+    "en": "ammonia",
+    "ja": "アンモニア",
+    "hintEn": "This strong-smelling gas contains nitrogen and hydrogen.",
+    "hintJa": "窒素と水素からできた、強い刺激臭のある気体です。",
+    "reason": "水溶液の語義とは区別し気体を選ぶ。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-249-02705944-n",
+    "en": "amplifier",
+    "ja": "アンプ",
+    "hintEn": "This electronic device makes a signal stronger, often to produce louder sound.",
+    "hintJa": "電気信号を強くし、音を大きくするなどに使う装置です。",
+    "reason": "電子装置としての意味を確認。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-257-05772667-n",
+    "en": "analysis",
+    "ja": "分析",
+    "hintEn": "You study something by examining its parts and their relationships.",
+    "hintJa": "物事を部分に分け、その関係を調べることです。",
+    "reason": "精神分析や数学の解析学に限定しない一般的な意味。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-258-09790482-n",
+    "en": "analyst",
+    "ja": "アナリスト",
+    "hintEn": "This person studies data carefully to understand it.",
+    "hintJa": "データを詳しく調べて理解する仕事が得意な人です。",
+    "reason": "精神分析医ではなくデータを調べる職業を選ぶ。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-260-09792555-n",
+    "en": "ancestor",
+    "ja": "先祖",
+    "hintEn": "This person lived before you in your family line.",
+    "hintJa": "自分より昔の世代に生きていた、家系上の人です。",
+    "reason": "ルーツという比喩ではなく家系上の人物。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-267-09538915-n",
+    "en": "angel",
+    "ja": "天使",
+    "hintEn": "In religious stories, this spiritual being serves God.",
+    "hintJa": "宗教の物語で、神に仕える存在です。",
+    "reason": "滝の固有名や演劇の出資者ではなく宗教上の存在。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-273-00015388-n",
+    "en": "animal",
+    "ja": "動物",
+    "hintEn": "Cats, birds, and fish all belong to this group of living things.",
+    "hintJa": "ネコや鳥、魚などが属する生き物の仲間です。",
+    "reason": "四つ足だけに限定せず一般的な動物の意味。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-277-05578442-n",
+    "en": "ankle",
+    "ja": "足首",
+    "hintEn": "This joint connects your foot to your lower leg.",
+    "hintJa": "足と脚の下の部分をつなぐ関節です。",
+    "reason": "一般的な身体部位名を選ぶ。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-304-06288024-n",
+    "en": "antonym",
+    "ja": "対義語",
+    "hintEn": "Hot and cold are examples of words with opposite meanings.",
+    "hintJa": "暑いと寒いのように、反対の意味を持つ語です。",
+    "reason": "同義語ではなく反対の意味の関係。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-318-02726305-n",
+    "en": "apartment",
+    "ja": "アパート",
+    "hintEn": "This home occupies part of a building that contains other homes.",
+    "hintJa": "複数の住まいがある建物の中の、一つの住居です。",
+    "reason": "集合住宅内の住居。英語では建物全体に限らないことをヒントに明記。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-353-09805475-n",
+    "en": "architect",
+    "ja": "建築家",
+    "hintEn": "This person draws plans for buildings.",
+    "hintJa": "建物を造るための計画や図面を考える人です。",
+    "reason": "一般的な設計者より建物を設計する職業を選ぶ。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-354-00610738-n",
+    "en": "architecture",
+    "ja": "建築",
+    "hintEn": "This profession involves planning buildings and their surroundings.",
+    "hintJa": "建物やその周りの環境を設計する仕事や技術です。",
+    "reason": "コンピューター構造ではなく建物を設計する分野。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-369-08191230-n",
+    "en": "army",
+    "ja": "陸軍",
+    "hintEn": "This branch of the military operates mainly on land.",
+    "hintJa": "主に陸上で活動する軍の部門です。",
+    "reason": "国名や集団の比喩ではなく陸上の軍。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-380-02742753-n",
+    "en": "arrow",
+    "ja": "矢",
+    "hintEn": "You shoot this long, pointed object from a bow.",
+    "hintJa": "弓から放つ、先のとがった細長いものです。",
+    "reason": "方向を示す記号ではなく弓で射る物。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-381-02743547-n",
+    "en": "art",
+    "ja": "芸術",
+    "hintEn": "Paintings and sculptures are examples of these creative works.",
+    "hintJa": "絵画や彫刻などの創造的な作品です。",
+    "reason": "印刷物の図版や熟練技能とは区別する。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-387-09812338-n",
+    "en": "artist",
+    "ja": "芸術家",
+    "hintEn": "This person creates works such as paintings or sculptures.",
+    "hintJa": "絵画や彫刻などの作品を作る人です。",
+    "reason": "画家に限定しすぎず創造的な作品を作る人。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-463-09823502-n",
+    "en": "aunt",
+    "ja": "おば",
+    "hintEn": "This woman is a sister of your mother or father.",
+    "hintJa": "母親または父親の姉妹に当たる女性です。",
+    "reason": "英語は親の姉と妹を区別しない。年齢差を限定しない自然な表記「おば」に整える。元のWordNet対応語「叔母」をjaSourceに保持。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15",
+    "jaSource": "叔母"
+  },
+  {
+    "id": "cefrj16-470-15236859-n",
+    "en": "autumn",
+    "ja": "秋",
+    "hintEn": "This season comes after summer and before winter.",
+    "hintJa": "夏のあと、冬の前に来る季節です。",
+    "reason": "季節の一般的な日本語を選ぶ。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-61-14323683-n",
+    "en": "ache",
+    "ja": "痛み",
+    "hintEn": "A dull unpleasant feeling continues in part of your body.",
+    "hintJa": "体の一部で続く、鈍くつらい感覚です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-85-07248801-n",
+    "en": "ad",
+    "ja": "広告",
+    "hintEn": "This message promotes a product or service.",
+    "hintJa": "商品やサービスを紹介するものです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-126-00796315-n",
+    "en": "adventure",
+    "ja": "冒険",
+    "hintEn": "An exciting experience takes you into unfamiliar situations.",
+    "hintJa": "知らない場所などで経験する、わくわくする出来事です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-133-07248801-n",
+    "en": "advert",
+    "ja": "広告",
+    "hintEn": "This message promotes a product in a magazine.",
+    "hintJa": "雑誌などで商品を紹介するためのものです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-135-07248801-n",
+    "en": "advertisement",
+    "ja": "広告",
+    "hintEn": "A company uses this message to tell people about its products.",
+    "hintJa": "会社が商品を人々に知らせるためのものです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-137-06671484-n",
+    "en": "advice",
+    "ja": "助言",
+    "hintEn": "Someone suggests what you should do to solve a problem.",
+    "hintJa": "問題を解決するため、どうすればよいか教える言葉です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-139-09774266-n",
+    "en": "adviser",
+    "ja": "助言者",
+    "hintEn": "This person uses their knowledge to suggest what you should do.",
+    "hintJa": "知識を使って、どう行動するとよいか教える人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-140-00625858-n",
+    "en": "aerobics",
+    "ja": "エアロビクス",
+    "hintEn": "This exercise often uses repeated movements set to music.",
+    "hintJa": "音楽に合わせ、動きを繰り返すことが多い運動です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-143-07544647-n",
+    "en": "affection",
+    "ja": "愛情",
+    "hintEn": "This is a warm feeling of caring for someone.",
+    "hintJa": "誰かを大切に思う温かい気持ちです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-179-02686568-n",
+    "en": "aircraft",
+    "ja": "航空機",
+    "hintEn": "This vehicle can travel through the sky.",
+    "hintJa": "空を移動できる乗り物の総称です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-225-05790944-n",
+    "en": "alternative",
+    "ja": "選択肢",
+    "hintEn": "This is one possible choice among several.",
+    "hintJa": "いくつかある中から選べる一つです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-230-14627820-n",
+    "en": "aluminum",
+    "ja": "アルミニウム",
+    "hintEn": "This light silver-colored metal is used to make drink cans.",
+    "hintJa": "飲み物の缶などに使われる、軽く銀色の金属です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-235-07509572-n",
+    "en": "amazement",
+    "ja": "驚き",
+    "hintEn": "You feel this when something surprises you greatly.",
+    "hintJa": "とても意外なことに出会ったときの気持ちです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-269-13887509-n",
+    "en": "angle",
+    "ja": "角",
+    "hintEn": "Two lines meeting at a point form this.",
+    "hintJa": "二本の線が一点で交わってできるものです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-278-15249799-n",
+    "en": "anniversary",
+    "ja": "記念日",
+    "hintEn": "This date marks an important event from a previous year.",
+    "hintJa": "過去の大切な出来事を毎年思い出す日です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-331-06691989-n",
+    "en": "applause",
+    "ja": "拍手",
+    "hintEn": "An audience claps to show approval.",
+    "hintJa": "観客がよかったという気持ちを込め、手をたたくことです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-333-09607280-n",
+    "en": "applicant",
+    "ja": "応募者",
+    "hintEn": "This person asks to be considered for a job or course.",
+    "hintJa": "仕事や学ぶ機会などに申し込んだ人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-352-09804806-n",
+    "en": "archaeologist",
+    "ja": "考古学者",
+    "hintEn": "This researcher studies old objects and remains to learn about past people.",
+    "hintJa": "昔の物や遺跡から過去の人々の暮らしを調べる研究者です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-363-06004067-n",
+    "en": "arithmetic",
+    "ja": "算数",
+    "hintEn": "You study adding, subtracting, multiplying, and dividing.",
+    "hintJa": "足し算、引き算、掛け算、割り算などを学ぶ分野です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-366-02738535-n",
+    "en": "armchair",
+    "ja": "肘掛け椅子",
+    "hintEn": "This seat has a support for each of your arms.",
+    "hintJa": "左右に腕を置く部分のある椅子です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-368-13764540-n",
+    "en": "armful",
+    "ja": "一抱え",
+    "hintEn": "This is as much as you can carry in both arms at once.",
+    "hintJa": "両腕で一度に抱えられる量です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-382-05333777-n",
+    "en": "artery",
+    "ja": "動脈",
+    "hintEn": "This blood vessel carries blood away from the heart.",
+    "hintJa": "心臓から外へ血液を運ぶ血管です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-412-09815790-n",
+    "en": "assistant",
+    "ja": "助手",
+    "hintEn": "This person helps someone else do their work.",
+    "hintJa": "ほかの人の仕事を手伝う人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-422-07509572-n",
+    "en": "astonishment",
+    "ja": "驚き",
+    "hintEn": "An unexpected event can cause this intense surprise.",
+    "hintJa": "思いがけない出来事で強くびっくりする気持ちです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-424-09818343-n",
+    "en": "astronomer",
+    "ja": "天文学者",
+    "hintEn": "This scientist studies stars, planets, and space.",
+    "hintJa": "星や惑星、宇宙を研究する科学者です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-425-06095022-n",
+    "en": "astronomy",
+    "ja": "天文学",
+    "hintEn": "This science studies objects and events in space.",
+    "hintJa": "宇宙の天体や現象を研究する学問です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-427-09820263-n",
+    "en": "athlete",
+    "ja": "運動選手",
+    "hintEn": "This person trains to compete in sports.",
+    "hintJa": "スポーツの競技に出るために練習する人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-474-02763472-n",
+    "en": "avenue",
+    "ja": "大通り",
+    "hintEn": "This is a wide road through a town or city.",
+    "hintJa": "町の中を通る幅の広い道路です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-489-02764044-n",
+    "en": "axe",
+    "ja": "斧",
+    "hintEn": "You swing this heavy blade on a handle to split wood.",
+    "hintJa": "柄の付いた重い刃を振って木を割る道具です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-498-14325335-n",
+    "en": "backache",
+    "ja": "背中の痛み",
+    "hintEn": "You feel this discomfort in the rear part of your upper body.",
+    "hintJa": "体の後ろ側にある背中が痛むことです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-501-09830629-n",
+    "en": "backpacker",
+    "ja": "バックパッカー",
+    "hintEn": "This traveler carries their belongings in a bag on their back.",
+    "hintJa": "背中のかばんに持ち物を入れて旅をする人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-505-02772197-n",
+    "en": "backyard",
+    "ja": "裏庭",
+    "hintEn": "This outdoor area is behind a house.",
+    "hintJa": "家の後ろにある庭です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-508-06882561-n",
+    "en": "badge",
+    "ja": "バッジ",
+    "hintEn": "You wear this small symbol to show your group or position.",
+    "hintJa": "所属や立場を示すために着ける小さな印です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-510-00480508-n",
+    "en": "badminton",
+    "ja": "バドミントン",
+    "hintEn": "Players hit a shuttlecock over a net with rackets.",
+    "hintJa": "ラケットでシャトルをネットの向こうへ打ち合う競技です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-537-13359690-n",
+    "en": "bank account",
+    "ja": "銀行口座",
+    "hintEn": "You use this to deposit money and withdraw it later.",
+    "hintJa": "金融機関にお金を預けたり、引き出したりするためのものです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-547-02791270-n",
+    "en": "barbershop",
+    "ja": "理髪店",
+    "hintEn": "People visit this shop to get their hair cut.",
+    "hintJa": "髪を切ってもらうために行く店です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-556-09841188-n",
+    "en": "barman",
+    "ja": "バーテンダー",
+    "hintEn": "This man mixes and serves drinks at a counter.",
+    "hintJa": "カウンターで飲み物を作って出す男性です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-558-02794156-n",
+    "en": "barometer",
+    "ja": "気圧計",
+    "hintEn": "This instrument measures atmospheric pressure.",
+    "hintJa": "大気の圧力を測る器具です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-562-09841188-n",
+    "en": "bartender",
+    "ja": "バーテンダー",
+    "hintEn": "This person mixes cocktails and serves drinks.",
+    "hintJa": "カクテルを作り、飲み物を提供する人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-578-02806875-n",
+    "en": "bathhouse",
+    "ja": "浴場",
+    "hintEn": "People come here to wash and soak in shared baths.",
+    "hintJa": "共同のお風呂で体を洗ったり湯につかったりする施設です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-582-08506641-n",
+    "en": "battlefield",
+    "ja": "戦場",
+    "hintEn": "Armed forces fight each other in this area.",
+    "hintJa": "軍隊などが戦う場所です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-585-09217230-n",
+    "en": "beach",
+    "ja": "砂浜",
+    "hintEn": "This sandy area lies beside the sea or a lake.",
+    "hintJa": "海や湖のそばに広がる砂地です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-586-02088364-n",
+    "en": "beagle",
+    "ja": "ビーグル",
+    "hintEn": "This small hunting dog has short legs and hanging ears.",
+    "hintJa": "短い脚と垂れた耳を持つ小型の猟犬です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-590-02131653-n",
+    "en": "bear",
+    "ja": "クマ",
+    "hintEn": "This large furry mammal has powerful claws.",
+    "hintJa": "厚い毛と強い爪を持つ、大きな哺乳類です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-606-02821627-n",
+    "en": "bedroom",
+    "ja": "寝室",
+    "hintEn": "This room is mainly used for sleeping.",
+    "hintJa": "主に眠るために使う部屋です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-611-07886849-n",
+    "en": "beer",
+    "ja": "ビール",
+    "hintEn": "This alcoholic drink is made from grain and flavored with hops.",
+    "hintJa": "穀物から作り、ホップで風味を付ける酒です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-654-06412497-n",
+    "en": "bestseller",
+    "ja": "ベストセラー",
+    "hintEn": "This book has sold a very large number of copies.",
+    "hintJa": "非常に多くの冊数が売れた本です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-661-05685030-n",
+    "en": "bewilderment",
+    "ja": "困惑",
+    "hintEn": "You feel confused because you cannot understand what is happening.",
+    "hintJa": "何が起きているか理解できず、戸惑う気持ちです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-676-06079620-n",
+    "en": "biochemistry",
+    "ja": "生化学",
+    "hintEn": "This science studies chemical processes inside living things.",
+    "hintJa": "生き物の中で起きる化学的な働きを研究する学問です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-677-06515827-n",
+    "en": "biography",
+    "ja": "伝記",
+    "hintEn": "This book tells the story of a real person's life.",
+    "hintJa": "実在する人の生涯を記した本です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-696-02846511-n",
+    "en": "blackboard",
+    "ja": "黒板",
+    "hintEn": "A teacher writes on this dark board with chalk.",
+    "hintJa": "先生がチョークで字を書く、暗い色の板です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-698-06713752-n",
+    "en": "blame",
+    "ja": "非難",
+    "hintEn": "Someone is criticized for doing something wrong.",
+    "hintJa": "悪いことをしたとして人を責めることです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-713-14126660-n",
+    "en": "blindness",
+    "ja": "失明",
+    "hintEn": "This is the loss or absence of the ability to see.",
+    "hintJa": "目で見る力が失われている状態です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-717-06402202-n",
+    "en": "blog",
+    "ja": "ブログ",
+    "hintEn": "People regularly post writing about their experiences on this kind of website.",
+    "hintJa": "体験などの記事を継続して載せる形式のウェブサイトです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-718-09860415-n",
+    "en": "blogger",
+    "ja": "ブロガー",
+    "hintEn": "This person regularly writes posts in an online journal.",
+    "hintJa": "オンラインの日記や記事を継続して書く人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-721-05401951-n",
+    "en": "bloodstream",
+    "ja": "血流",
+    "hintEn": "This is blood flowing through the body's vessels.",
+    "hintJa": "体の血管の中を流れる血液です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-737-00502415-n",
+    "en": "board game",
+    "ja": "ボードゲーム",
+    "hintEn": "Players use pieces on a specially designed flat playing surface.",
+    "hintJa": "専用の盤の上で駒などを使って遊ぶものです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-739-02858304-n",
+    "en": "boat",
+    "ja": "ボート",
+    "hintEn": "This small vessel carries people across water.",
+    "hintJa": "水の上で人を運ぶ小さな船です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-760-02870880-n",
+    "en": "bookcase",
+    "ja": "本棚",
+    "hintEn": "This furniture has shelves for your reading collection.",
+    "hintJa": "読む本を並べて置く棚が付いた家具です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-763-06413889-n",
+    "en": "booklet",
+    "ja": "小冊子",
+    "hintEn": "This is a small thin publication with only a few pages.",
+    "hintJa": "ページの少ない、小さく薄い本です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-766-02871439-n",
+    "en": "bookshelf",
+    "ja": "本棚",
+    "hintEn": "You arrange your reading collection on this shelf.",
+    "hintJa": "読む本を並べて置くための棚です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-767-02871525-n",
+    "en": "bookshop",
+    "ja": "書店",
+    "hintEn": "You visit this store to buy things to read.",
+    "hintJa": "読む本を買いに行く店です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-768-02871525-n",
+    "en": "bookstore",
+    "ja": "書店",
+    "hintEn": "This store sells novels, dictionaries, and other printed volumes.",
+    "hintJa": "小説や辞書などの本を売る店です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-777-07539790-n",
+    "en": "boredom",
+    "ja": "退屈",
+    "hintEn": "You feel this when nothing seems interesting or exciting.",
+    "hintJa": "面白いことがなく、つまらなく感じることです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-805-09871364-n",
+    "en": "boyfriend",
+    "ja": "彼氏",
+    "hintEn": "This is a male romantic partner.",
+    "hintJa": "恋愛関係にある男性の相手です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-806-02892767-n",
+    "en": "bra",
+    "ja": "ブラジャー",
+    "hintEn": "This undergarment supports the breasts.",
+    "hintJa": "胸を支えるために着ける下着です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-809-07229747-n",
+    "en": "brag",
+    "ja": "自慢話",
+    "hintEn": "Someone talks proudly about what they have or have done.",
+    "hintJa": "持ち物や自分のしたことを得意げに話すことです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-812-01203277-n",
+    "en": "brainstorming",
+    "ja": "ブレインストーミング",
+    "hintEn": "A group shares ideas freely to solve a problem.",
+    "hintJa": "問題を解くため、集団で自由に案を出す方法です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-828-07574602-n",
+    "en": "breakfast",
+    "ja": "朝食",
+    "hintEn": "This is the first meal usually eaten in the morning.",
+    "hintJa": "普通は朝に食べる、一日の最初の食事です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-836-08101410-n",
+    "en": "breed",
+    "ja": "品種",
+    "hintEn": "Domestic animals of this group share inherited characteristics.",
+    "hintJa": "家畜などを受け継いだ特徴によって分けた種類です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-841-02897237-n",
+    "en": "brewery",
+    "ja": "醸造所",
+    "hintEn": "This factory makes beer by fermentation.",
+    "hintJa": "発酵によってビールを造る工場です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-860-06413889-n",
+    "en": "brochure",
+    "ja": "パンフレット",
+    "hintEn": "This small publication gives information about a place or service.",
+    "hintJa": "場所やサービスを紹介する小さな冊子です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-869-06571301-n",
+    "en": "browser",
+    "ja": "ブラウザー",
+    "hintEn": "You use this computer program to view websites.",
+    "hintJa": "ウェブサイトを見るために使うプログラムです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-870-14288871-n",
+    "en": "bruise",
+    "ja": "あざ",
+    "hintEn": "A bump can leave this dark mark under unbroken skin.",
+    "hintJa": "ぶつけたあと、皮膚の下にできる色の変わった部分です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-874-02909870-n",
+    "en": "bucket",
+    "ja": "バケツ",
+    "hintEn": "You carry water in this open container with a handle.",
+    "hintJa": "取っ手があり、水を運ぶ口の開いた容器です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-876-09877951-n",
+    "en": "buddy",
+    "ja": "仲間",
+    "hintEn": "This close friend often joins you in activities.",
+    "hintJa": "一緒に行動する親しい友達です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-887-06682290-n",
+    "en": "bulletin",
+    "ja": "速報",
+    "hintEn": "This short report announces recent news.",
+    "hintJa": "新しい知らせを短く伝える報告です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-900-09880741-n",
+    "en": "burglar",
+    "ja": "泥棒",
+    "hintEn": "This thief enters a building to steal things.",
+    "hintJa": "物を盗むために建物に入り込む人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-903-07451687-n",
+    "en": "burial",
+    "ja": "埋葬",
+    "hintEn": "A body is placed in a grave during this ceremony.",
+    "hintJa": "遺体を墓に納めることです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-910-02926288-n",
+    "en": "bus station",
+    "ja": "バスターミナル",
+    "hintEn": "Many road passenger services arrive and depart here.",
+    "hintJa": "多くの路線バスが発着する施設です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-911-08517676-n",
+    "en": "bus stop",
+    "ja": "バス停",
+    "hintEn": "People wait beside the road here to board public transport.",
+    "hintJa": "路線バスに乗るために道路沿いで待つ場所です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-914-09882007-n",
+    "en": "businessman",
+    "ja": "実業家",
+    "hintEn": "This man runs or works in a commercial enterprise.",
+    "hintJa": "商業などの事業を経営したり、その仕事に携わったりする男性です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-928-09885145-n",
+    "en": "buyer",
+    "ja": "買い手",
+    "hintEn": "This person pays money to obtain something.",
+    "hintJa": "お金を払って物を手に入れる人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-938-02935658-n",
+    "en": "cafe",
+    "ja": "カフェ",
+    "hintEn": "This small place serves coffee and light meals.",
+    "hintJa": "コーヒーや軽い食事を出す小さな店です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-939-02935891-n",
+    "en": "cafeteria",
+    "ja": "カフェテリア",
+    "hintEn": "You choose food yourself and pay at a counter.",
+    "hintJa": "自分で料理を選び、会計をして食べる食堂です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-953-02437136-n",
+    "en": "camel",
+    "ja": "ラクダ",
+    "hintEn": "This desert animal has one or two humps.",
+    "hintJa": "背中に一つか二つのこぶがある砂漠の動物です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-958-01055165-n",
+    "en": "camping",
+    "ja": "キャンプ",
+    "hintEn": "You spend time outdoors and sleep in a tent.",
+    "hintJa": "屋外で過ごし、テントなどで眠る活動です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-959-08518171-n",
+    "en": "campsite",
+    "ja": "キャンプ場",
+    "hintEn": "People put up tents and stay outdoors here.",
+    "hintJa": "テントを張って屋外で泊まれる場所です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-960-08518374-n",
+    "en": "campus",
+    "ja": "キャンパス",
+    "hintEn": "University buildings stand on these grounds.",
+    "hintJa": "大学の建物が集まっている敷地です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-968-07597365-n",
+    "en": "candy",
+    "ja": "キャンディー",
+    "hintEn": "This sweet treat is made mainly from sugar.",
+    "hintJa": "主に砂糖から作る甘いお菓子です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-971-02950943-n",
+    "en": "cannonball",
+    "ja": "砲弾",
+    "hintEn": "In the past, a large gun fired this solid round object.",
+    "hintJa": "昔の大砲から発射した硬く丸い弾です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-973-02952374-n",
+    "en": "canteen",
+    "ja": "水筒",
+    "hintEn": "You carry drinking water in this portable container.",
+    "hintJa": "飲み水を入れて持ち歩く容器です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-979-06824227-n",
+    "en": "capital letter",
+    "ja": "大文字",
+    "hintEn": "A and B are examples, unlike a and b.",
+    "hintJa": "小さいaやbに対する、AやBのような文字です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-987-08615638-n",
+    "en": "car park",
+    "ja": "駐車場",
+    "hintEn": "Drivers leave their vehicles in this designated area.",
+    "hintJa": "運転してきた車を止めておく場所です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-990-14796969-n",
+    "en": "carbon dioxide",
+    "ja": "二酸化炭素",
+    "hintEn": "Humans breathe out this gas, and plants use it in photosynthesis.",
+    "hintJa": "人が息で吐き出し、植物が光合成に使う気体です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-992-14797641-n",
+    "en": "carbon monoxide",
+    "ja": "一酸化炭素",
+    "hintEn": "This poisonous odorless gas can form when fuel burns incompletely.",
+    "hintJa": "燃料が不完全に燃えると生じることがある無臭の有毒な気体です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-994-14799601-n",
+    "en": "cardboard",
+    "ja": "厚紙",
+    "hintEn": "Boxes are often made from this stiff thick paper.",
+    "hintJa": "箱などを作るときに使う厚く硬い紙です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1019-02978881-n",
+    "en": "cassette",
+    "ja": "カセット",
+    "hintEn": "This small case holds magnetic tape for recording sound.",
+    "hintJa": "録音用の磁気テープを収めた小さなケースです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1036-01104324-n",
+    "en": "catering",
+    "ja": "ケータリング",
+    "hintEn": "A service brings prepared food to events.",
+    "hintJa": "催しなどの会場へ料理を届けて提供するサービスです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1038-02402425-n",
+    "en": "cattle",
+    "ja": "牛",
+    "hintEn": "These farm animals are raised for milk or meat.",
+    "hintJa": "乳や肉などを得るために飼う家畜の一群です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1043-09238926-n",
+    "en": "cave",
+    "ja": "洞窟",
+    "hintEn": "You can enter this natural hollow space in rock.",
+    "hintJa": "岩や地面の中に自然にできた、人が入れる空間です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1054-09903501-n",
+    "en": "cellist",
+    "ja": "チェリスト",
+    "hintEn": "This musician plays a large string instrument held between the knees.",
+    "hintJa": "膝の間に置く大きな弦楽器を演奏する人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1055-02992211-n",
+    "en": "cello",
+    "ja": "チェロ",
+    "hintEn": "You play this large string instrument with a bow while sitting.",
+    "hintJa": "座って弓を使って演奏する大きな弦楽器です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1056-08521623-n",
+    "en": "cemetery",
+    "ja": "墓地",
+    "hintEn": "Many graves are gathered in this area.",
+    "hintJa": "多くの墓が集まっている土地です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1057-13664521-n",
+    "en": "cent",
+    "ja": "セント",
+    "hintEn": "In some currencies, one hundred of these make a dollar.",
+    "hintJa": "一部の通貨で、百集まると一ドルになる単位です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1060-13658828-n",
+    "en": "centimeter",
+    "ja": "センチメートル",
+    "hintEn": "One hundred of these units make one meter.",
+    "hintJa": "百集まると一メートルになる長さの単位です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1062-02995151-n",
+    "en": "central heating",
+    "ja": "セントラルヒーティング",
+    "hintEn": "One main system warms rooms throughout a building.",
+    "hintJa": "一つの中心設備から建物の各部屋を暖める仕組みです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1074-10468962-n",
+    "en": "chairman",
+    "ja": "議長",
+    "hintEn": "This person leads a meeting and manages the discussion.",
+    "hintJa": "会議を進め、話し合いをまとめる人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1102-07134850-n",
+    "en": "chat",
+    "ja": "おしゃべり",
+    "hintEn": "This is a relaxed informal conversation.",
+    "hintJa": "気軽で堅苦しくない会話です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1104-06620227-n",
+    "en": "chat show",
+    "ja": "トークショー",
+    "hintEn": "Guests talk and answer questions on this program.",
+    "hintJa": "ゲストが話をしたり質問に答えたりする番組です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1109-00141669-n",
+    "en": "check-in",
+    "ja": "チェックイン",
+    "hintEn": "You report your arrival at a hotel or before a flight.",
+    "hintJa": "ホテルや飛行機の利用前に到着を知らせる手続きです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1112-08517825-n",
+    "en": "checkpoint",
+    "ja": "検問所",
+    "hintEn": "Travelers stop here for inspection.",
+    "hintJa": "旅行者などが検査のために止まる場所です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1120-09963574-n",
+    "en": "chef",
+    "ja": "料理人",
+    "hintEn": "This professional prepares meals for other people.",
+    "hintJa": "仕事として料理を作る人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1122-14806838-n",
+    "en": "chemical",
+    "ja": "化学物質",
+    "hintEn": "This substance can be used in reactions in a laboratory.",
+    "hintJa": "実験室などの反応で使う物質です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1126-13381734-n",
+    "en": "cheque",
+    "ja": "小切手",
+    "hintEn": "This document instructs a bank to pay money.",
+    "hintJa": "銀行にお金を支払うよう指示する書類です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1130-00503237-n",
+    "en": "chess",
+    "ja": "チェス",
+    "hintEn": "Two players move pieces to trap the opposing king.",
+    "hintJa": "二人が駒を動かし、相手の王を追い詰める盤上遊びです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1134-07599998-n",
+    "en": "chewing gum",
+    "ja": "ガム",
+    "hintEn": "You keep this sweet product in your mouth and chew it.",
+    "hintJa": "口の中でかみ続ける甘いお菓子です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1143-02481823-n",
+    "en": "chimpanzee",
+    "ja": "チンパンジー",
+    "hintEn": "This intelligent African ape is closely related to humans.",
+    "hintJa": "アフリカにすむ、知能が高く人間に近い類人猿です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1155-07127563-n",
+    "en": "chuckle",
+    "ja": "くすくす笑い",
+    "hintEn": "You laugh softly without making much noise.",
+    "hintJa": "大きな声を出さず、静かに笑うことです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1156-07961016-n",
+    "en": "chunk",
+    "ja": "塊",
+    "hintEn": "This is a thick solid piece of something.",
+    "hintJa": "厚みのある、まとまった一つの部分です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1167-09923673-n",
+    "en": "citizen",
+    "ja": "市民",
+    "hintEn": "This person is a member of a country or political community.",
+    "hintJa": "国などの政治的な共同体に属する人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1182-07025900-n",
+    "en": "classical music",
+    "ja": "クラシック音楽",
+    "hintEn": "Orchestras often perform this traditional type of concert music.",
+    "hintJa": "オーケストラなどが演奏する伝統ある音楽の種類です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1185-10560106-n",
+    "en": "classmate",
+    "ja": "同級生",
+    "hintEn": "This person attends the same school class as you.",
+    "hintJa": "自分と同じ学校のクラスで学ぶ人です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1186-03038685-n",
+    "en": "classroom",
+    "ja": "教室",
+    "hintEn": "Students and teachers meet for lessons in this room.",
+    "hintJa": "生徒と先生が授業をする部屋です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1201-09246464-n",
+    "en": "cliff",
+    "ja": "崖",
+    "hintEn": "This very steep rock face rises above the ground or sea.",
+    "hintJa": "地面や海の上に高くそびえる急な岩の斜面です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1203-13449450-n",
+    "en": "climate change",
+    "ja": "気候変動",
+    "hintEn": "Long-term patterns of temperature and weather shift around the world.",
+    "hintJa": "世界の気温や天候の長期的な傾向が変わることです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1218-03309808-n",
+    "en": "cloth",
+    "ja": "布",
+    "hintEn": "This woven or knitted material is used to make clothes.",
+    "hintJa": "織ったり編んだりして作り、服などに使う材料です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1219-02728440-n",
+    "en": "clothes",
+    "ja": "服",
+    "hintEn": "You wear these items on your body.",
+    "hintJa": "体に身に着けるものです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1220-03051540-n",
+    "en": "clothing",
+    "ja": "衣類",
+    "hintEn": "This is a general word for things people wear.",
+    "hintJa": "人が身に着ける物の総称です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1229-00270800-n",
+    "en": "coaching",
+    "ja": "指導",
+    "hintEn": "A trainer helps someone improve their skills.",
+    "hintJa": "教える人が技術や成績を伸ばす手助けをすることです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1230-14814616-n",
+    "en": "coal",
+    "ja": "石炭",
+    "hintEn": "This dark fossil fuel is dug from the ground and burned.",
+    "hintJa": "地中から掘り出し、燃やして使う黒い化石燃料です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1236-08613000-n",
+    "en": "coastline",
+    "ja": "海岸線",
+    "hintEn": "This line follows where the land meets the sea.",
+    "hintJa": "陸と海が接する境界に沿った線です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1244-03064758-n",
+    "en": "coffin",
+    "ja": "棺",
+    "hintEn": "A body is placed in this box for burial.",
+    "hintJa": "埋葬などで遺体を納める箱です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1247-13388245-n",
+    "en": "coin",
+    "ja": "硬貨",
+    "hintEn": "This small metal object is used as money.",
+    "hintJa": "お金として使う小さな金属のものです。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  },
+  {
+    "id": "cefrj16-1261-08278324-n",
+    "en": "college",
+    "ja": "大学",
+    "hintEn": "Students attend this institution for higher education and degrees.",
+    "hintJa": "高等教育を受け、学位などを得るために通う学校です。",
+    "reason": "英日両定義を読み、語義に合う自然な日本語を選定。日英ヒントを新規作成。",
+    "reviewer": "Codex",
+    "reviewedOn": "2026-10-15"
+  }
+]

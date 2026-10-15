@@ -15,3 +15,9 @@ Short hints and their Japanese translations were newly written with AI assistanc
 Redistributors should retain this file and both WordNet licenses, and provide the CEFR-J attribution above. No endorsement by the source institutions is implied.
 
 Some Japanese display forms are normalized for natural usage (for example, adding する to a verbal noun or using おば without specifying relative age). Original Japanese lemmas and editorial reasons are retained in the source review records.
+
+## Full automated trial and C1/C2
+
+C1/C2 vocabulary and levels: Octanove Vocabulary Profile C1/C2 v1.0, Octanove Labs, distributed by [Open Language Profiles](https://github.com/openlanguageprofiles/olp-en-cefrj). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The C1/C2 adaptations in v3 and research are also provided under CC BY-SA 4.0; retain the WordNet notices for incorporated lexical material. Changes include WordNet matching, sense selection, Japanese equivalents, hints, and JSON packaging. No endorsement is implied.
+
+v1 contains individually reviewed, newly authored hints. v3 and research also include unreviewed automatic selections and WordNet-derived definitions/hints; these must not be described as fully edited teaching material. All source candidates and held-row reasons are included under research. Unmatched items have no invented translations.
