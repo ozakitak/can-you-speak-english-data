@@ -1,6 +1,6 @@
 # CanYouSpeakEnglish external data
 
-Trial data for a VRChat word explanation game. 64 selected noun senses: 16 each for CEFR-J A1, A2, B1 and B2. The full dictionary and unreviewed candidates are not hosted here.
+Trial data for a VRChat word explanation game. 128 selected noun senses: 32 each for CEFR-J A1, A2, B1 and B2. The full dictionary and unreviewed candidates are not hosted here.
 
 - Catalog: v1/catalog.json
 - Packs: v1/{A1,A2,B1,B2}/{000..031}.json
